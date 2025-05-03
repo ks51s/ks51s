@@ -3,7 +3,7 @@
 *Pronouns: he/him*
 
 **How to reach me?**
-> <img height="16" width="16" src="https://github.com/user-attachments/assets/8b956865-6f25-421c-afa9-64f302586bb9" />  **Telegram - @ks51s**
+> <img height="16" width="16" src="https://github.com/user-attachments/assets/8b956865-6f25-421c-afa9-64f302586bb9" />  **Telegram - [@ks51s](https://t.me/ks51s)**
 >
 > <img height="16" width="16" src="https://github.com/user-attachments/assets/9143759a-9af7-4b80-8239-f82f41b26028" />  **Discord - @ks51s**
 
