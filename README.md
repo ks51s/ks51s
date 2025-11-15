@@ -1,16 +1,12 @@
-## **Shalom! I'm KS51 (aka Konstantin).**
-### **On this page you can read some info and facts about me.**
-*Pronouns: he/him*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ks51s/ks51s/blob/main/ks51s.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ks51s/ks51s/blob/main/ks51s.png">
+    <img alt="yeah, that's my page" src="https://github.com/ks51s/ks51s/blob/main/ks51s.png">
+  </picture>
+  <p>idk what to write here... I make programs in DevelNext (PHP).</p>
+</div>
 
-**How to reach me?**
-> <img height="16" width="16" src="https://github.com/user-attachments/assets/8b956865-6f25-421c-afa9-64f302586bb9" />  **Telegram - [@ks51s](https://t.me/ks51s)**
->
-> <img height="16" width="16" src="https://github.com/user-attachments/assets/9143759a-9af7-4b80-8239-f82f41b26028" />  **Discord - @ks51s**
-
-**My top languages:**
-| Rank | Languages |
-|-----:|-----------|
-|     1| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|
-|     2| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
-
-# GUGA PETUH
+<div align="center">
+  <a href="https://t.me/ks51sChannel">My Telegram channel</a> - <a href="https://donatepay.ru/don/ks51">Support me</a>
+</div>
