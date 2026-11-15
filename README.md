@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ks51s/ks51s/blob/main/ks51s.png">
     <img alt="yeah, that's my page" src="https://github.com/ks51s/ks51s/blob/main/ks51s.png">
   </picture>
-  <p>idk what to write here... I make programs in DevelNext (PHP).</p>
+  <p>worst vibecoder ever, also i coded the svinotaBrowser yea</p>
 </div>
 
 <div align="center">
